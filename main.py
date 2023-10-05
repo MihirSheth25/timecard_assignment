@@ -1,6 +1,11 @@
 import pandas as pd
 from datetime import datetime, timedelta
 
+# Redirecting console output to "output.txt"
+import sys
+
+sys.stdout = open("output.txt", "w")
+
 # Loading the Excel file into a DataFrame
 file_path = "C:\Sem long\Internshala\Bluejay delivery\Assignment_Timecard.xlsx"
 try:
