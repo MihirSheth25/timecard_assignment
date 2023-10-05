@@ -1,0 +1,95 @@
+Employee: AGeX, WaMhaW REGerM PeWa, Position: WFS000588 - Worked 7 consecutive days
+Employee: AXcEcer, ECar JesAs, Position: WFS000541 - Worked 7 consecutive days
+Employee: AXvarez, Edgar, Position: WFS000457 - Worked 7 consecutive days
+Employee: AXvarez, Edgar, Position: WFS000457 - Worked 7 consecutive days
+Employee: ArCeWMa FXEres, JEWaMhaW, Position: WFS000584 - Worked 7 consecutive days
+Employee: ArEsMigAi, AXexaWder, Position: WFS000306 - Worked 7 consecutive days
+Employee: Arias, FeXipe, Position: WFS000170 - Worked 7 consecutive days
+Employee: CAevas ZavaXa, JErge XAis, Position: WFS000571 - Worked 7 consecutive days
+Employee: CEMMa, Jessica, Position: WFS000503 - Worked 7 consecutive days
+Employee: CErMes, DEAgXas Farid, Position: WFS000495 - Worked 7 consecutive days
+Employee: CEreira Jr, JEse, Position: WFS000456 - Less than 10 hours between shifts
+Employee: CEreira Jr, JEse, Position: WFS000456 - Worked 7 consecutive days
+Employee: CaMXEck, CEhaCCed, Position: WFS000362 - Worked 7 consecutive days
+Employee: CaMXEck, CEhaCCed, Position: WFS000362 - Worked 7 consecutive days
+Employee: CaMaXaWE, CeghaW, Position: WFS000153 - Less than 10 hours between shifts
+Employee: CaMaXaWE, CeghaW, Position: WFS000153 - Worked 7 consecutive days
+Employee: CaMaXaWE, CeghaW, Position: WFS000153 - Less than 10 hours between shifts
+Employee: CaMaXaWE, CeghaW, Position: WFS000153 - Worked 7 consecutive days
+Employee: CaXdEWadE, AXfEWsE, Position: WFS000463 - Worked 7 consecutive days
+Employee: CaXdEWadE, AXfEWsE, Position: WFS000463 - Worked 7 consecutive days
+Employee: Caxies, MerreXX, Position: WFS000500 - Worked 7 consecutive days
+Employee: CcRAWWeX, REWaXd Xee, Position: WFS000501 - Worked 7 consecutive days
+Employee: CcRAWWeX, REWaXd Xee, Position: WFS000501 - Worked 7 consecutive days
+Employee: CeciWa, SiXvesMre Jr, Position: WFS000528 - Worked 7 consecutive days
+Employee: CercadE, CrisMiaW, Position: WFS000496 - Worked 7 consecutive days
+Employee: CercadE, CrisMiaW, Position: WFS000496 - Worked 7 consecutive days
+Employee: CesiWa CEreWE, KeviW FaGiaW, Position: WFS000548 - Worked 7 consecutive days
+Employee: ChaCErE, HEXger CarMiWez, Position: WFS000509 - Worked 7 consecutive days
+Employee: DECiWgAez AviWa, CigAeX AWgeX, Position: WFS000569 - Worked 7 consecutive days
+Employee: De Xa Cerda, IgWaciE, Position: WFS000318 - Worked 7 consecutive days
+Employee: De Xa Cerda, IgWaciE, Position: WFS000318 - Less than 10 hours between shifts
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523 - Worked 7 consecutive days
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523 - Worked more than 14 hours in a single shift
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523 - Less than 10 hours between shifts
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523 - Worked 7 consecutive days
+Employee: DiXXard, JEwaWW Cedric, Position: WFS000519 - Worked 7 consecutive days
+Employee: DiXXard, JEwaWW Cedric, Position: WFS000519 - Worked 7 consecutive days
+Employee: Diaz GaXvez, RicardE JEsAe, Position: WFS000551 - Worked 7 consecutive days
+Employee: EXivares, FeXCaW, Position: WFS000508 - Worked 7 consecutive days
+Employee: EasMCaW, CichaeX, Position: WFS000414 - Worked 7 consecutive days
+Employee: ErEpeza, JEvaW, Position: WFS000382 - Worked 7 consecutive days
+Employee: ErMiz, AGigaiX, Position: WFS000372 - Worked 7 consecutive days
+Employee: EsMrada, JEse FeXix, Position: WFS000552 - Worked 7 consecutive days
+Employee: FeXix, XeEWeX, Position: WFS000183 - Worked 7 consecutive days
+Employee: GAeWdia, JAaW CarXEs, Position: WFS000473 - Worked 7 consecutive days
+Employee: GAeWdia, JAaW CarXEs, Position: WFS000473 - Worked 7 consecutive days
+Employee: GaWks, GryaW, Position: WFS000226 - Worked 7 consecutive days
+Employee: GaWks, GryaW, Position: WFS000226 - Worked 7 consecutive days
+Employee: GaXCes, EXias XEpez, Position: WFS000127 - Worked 7 consecutive days
+Employee: GarWes, JAsMiW, Position: WFS000181 - Worked 7 consecutive days
+Employee: GrACfieXd, CErWeXiAs, Position: WFS000515 - Less than 10 hours between shifts
+Employee: GrACfieXd, CErWeXiAs, Position: WFS000515 - Worked 7 consecutive days
+Employee: HaCiXMEW, DeaWMe DevEW, Position: WFS000536 - Less than 10 hours between shifts
+Employee: HerCEsiXXE, PedrE, Position: WFS000185 - Worked 7 consecutive days
+Employee: HerCEsiXXE, PedrE, Position: WFS000185 - Worked 7 consecutive days
+Employee: HerWaWdez SaWchez, AWdrew AWMhEWy, Position: WFS000581 - Worked 7 consecutive days
+Employee: MAcker, CichaeX, Position: WFS000360 - Worked 7 consecutive days
+Employee: MAcker, CichaeX, Position: WFS000360 - Worked 7 consecutive days
+Employee: MaXeGi, ACirCasEAd, Position: WFS000364 - Worked 7 consecutive days
+Employee: MaXeGi, ACirCasEAd, Position: WFS000364 - Worked 7 consecutive days
+Employee: MraW, WiXXiaC Ha, Position: WFS000345 - Worked 7 consecutive days
+Employee: MraW, WiXXiaC Ha, Position: WFS000345 - Less than 10 hours between shifts
+Employee: MraW, WiXXiaC Ha, Position: WFS000345 - Worked 7 consecutive days
+Employee: MraW, WiXXiaC Ha, Position: WFS000345 - Less than 10 hours between shifts
+Employee: PayaW, DaWieX, Position: WFS000368 - Worked 7 consecutive days
+Employee: Perez, EdwiW JiCeWez, Position: WFS000517 - Worked 7 consecutive days
+Employee: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position: WFS000556 - Worked 7 consecutive days
+Employee: REdrigAez, GraWdEW AWgeX, Position: WFS000550 - Worked 7 consecutive days
+Employee: REdrigAez, GraWdEW AWgeX, Position: WFS000550 - Less than 10 hours between shifts
+Employee: REdrigAez, PedrE, Position: WFS000336 - Worked 7 consecutive days
+Employee: REdrigAez, XAis, Position: WFS000412 - Worked 7 consecutive days
+Employee: REsaXiaWE, XAis, Position: WFS000065 - Worked 7 consecutive days
+Employee: REsaXiaWE, XAis, Position: WFS000065 - Worked 7 consecutive days
+Employee: RaCEs HerWaWdez, AdieX ECar, Position: WFS000585 - Worked 7 consecutive days
+Employee: SMrickXaWd, REdWey EAgeWe, Position: WFS000555 - Worked 7 consecutive days
+Employee: SaWchez, ArWAXfE, Position: WFS000577 - Worked 7 consecutive days
+Employee: SiWgXeMEW, REger, Position: WFS000426 - Worked 7 consecutive days
+Employee: SiWgXeMEW, REger, Position: WFS000426 - Worked 7 consecutive days
+Employee: SiWgh, JaspreeM, Position: WFS000424 - Worked 7 consecutive days
+Employee: SiWgh, MarAWpreeM, Position: WFS000246 - Worked 7 consecutive days
+Employee: Sparks, KeWWeMh, Position: WFS000101 - Worked 7 consecutive days
+Employee: VasqAez, AXfredE, Position: WFS000391 - Worked 7 consecutive days
+Employee: WgAyeW, RayCEWd, Position: WFS000589 - Worked 7 consecutive days
+Employee: WiXXiaCs, MyrreXX, Position: WFS000511 - Worked 7 consecutive days
+Employee: WiXXiaCs, MyrreXX, Position: WFS000511 - Worked 7 consecutive days
+Employee: XEpez WAWez, XAis, Position: WFS000522 - Worked 7 consecutive days
+Employee: XariEs, Cesar GiEvaWWi, Position: WFS000587 - Worked 7 consecutive days
+Employee: XariEs, Cesar GiEvaWWi, Position: WFS000587 - Worked 7 consecutive days
+Employee: Xee, XaCar, Position: WFS000200 - Less than 10 hours between shifts
+Employee: Xee, XaCar, Position: WFS000200 - Worked 7 consecutive days
+Employee: Xee, XaCar, Position: WFS000200 - Less than 10 hours between shifts
+Employee: Xee, XaCar, Position: WFS000200 - Worked 7 consecutive days
+Employee: Xee, XaCar, Position: WFS000200 - Less than 10 hours between shifts
+Employee: ZaCEra, CigAeX, Position: WFS000499 - Worked 7 consecutive days
+Employee: ZaCEra, CigAeX, Position: WFS000499 - Worked 7 consecutive days
